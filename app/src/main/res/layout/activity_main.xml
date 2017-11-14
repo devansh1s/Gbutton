@@ -28,21 +28,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Option 1" />
+            android:text="Computer Science" />
 
         <RadioButton
             android:id="@+id/radioButton3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Option 2" />
+            android:text="BMS" />
 
         <RadioButton
             android:id="@+id/radioButton4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Option 3" />
+            android:text="BBA(FIA)" />
     </RadioGroup>
 
 </android.support.constraint.ConstraintLayout>

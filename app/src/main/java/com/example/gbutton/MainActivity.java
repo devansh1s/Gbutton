@@ -22,17 +22,17 @@ public class MainActivity extends AppCompatActivity {
                 switch(checkedId) {
                     case R.id.radioButton2 : {
                         textView.setText("Option 1 selected");
-                        Toast.makeText(MainActivity.this, "Computer Science", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "Ajay Jaiswal", Toast.LENGTH_SHORT).show();
                     }
                     break;
                     case R.id.radioButton3 : {
                         textView.setText("Option 2 selected");
-                        Toast.makeText(MainActivity.this, "BMS", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "Tanuj", Toast.LENGTH_SHORT).show();
                     }
                     break;
                     case R.id.radioButton4 : {
                         textView.setText("Option 3 selected");
-                        Toast.makeText(MainActivity.this, "BBS", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "Verma", Toast.LENGTH_SHORT).show();
                     }
                 }
             }
